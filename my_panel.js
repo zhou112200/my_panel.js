@@ -10,7 +10,7 @@ const url = $request.url;
 const TARGET_API_KEYWORDS = "api.example.com/v1/data"; 
 
 // 2. 你自定义在浏览器里访问的虚拟域名
-const MY_PANEL_URL = "http://mybox.local";
+const MY_PANEL_URL = "http://mybox.com";
 
 // 3. 存储在小火箭内部沙盒里的数据库 Key 名
 const STORAGE_KEY = "mitm_data_pool";
