@@ -372,7 +372,7 @@ function buildHtml(records, showCredentials) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta http-equiv="refresh" content="8" />
+  <meta http-equiv="refresh" content="120" />
   <title>MITM Debug Panel</title>
   <style>
     :root {
